@@ -4,8 +4,8 @@ A modern, responsive landing page for a digital agency — designed in Figma wit
 
 A modern, responsive landing page designed for **"Digital Agency"** — a fictional creative/digital agency brand built to showcase services, recent projects, and client testimonials. The page was designed in **Figma** with a focus on clean visuals, clear navigation, and strong conversion-driven calls to action.
 
-🔗 **Live Site:** _add your deployed link here once live_
-🔗 **Linkedin profile:** 
+🔗 **Live Site:**(https://www.behance.net/gallery/252063057/UIUX-Design-Landing-Page)
+
 
 ## 📖 About the Project
 
